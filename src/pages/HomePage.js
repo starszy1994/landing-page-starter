@@ -1,12 +1,15 @@
-import React from 'react'
+import React from 'react';
+import Icon from '../components/IconMenu/Icon';
 import MainTemplate from '../components/MainTemplate/MainTemplate'
+import TopPage from '../components/TopPage/TopPage'
 
 const HomePage = () => {
   return (
 <MainTemplate>
-  <h2>HomePage</h2>
+  <TopPage/>
+  <Icon/>
   </MainTemplate>
   )
 }
 
-export default HomePage
+export default HomePage;

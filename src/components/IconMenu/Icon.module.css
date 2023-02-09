@@ -1,0 +1,15 @@
+.stylik {
+    width: 60%;
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    grid-template-rows: repeat(2, 200px);
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.drugiStylik {
+    margin: 40px;
+}
