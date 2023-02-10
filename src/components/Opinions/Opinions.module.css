@@ -1,0 +1,9 @@
+.all {
+    margin: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 10px;
+    left: 50px;
+}
