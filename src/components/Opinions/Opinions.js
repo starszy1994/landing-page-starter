@@ -4,10 +4,12 @@ import profile1 from '../../images/profile-1.jpg'
 import profile2 from '../../images/profile-2.jpg'
 import profile3 from '../../images/profile-3.jpg'
 import OpinionsMenu from './OpinionsMenu'
+import znacznik from '../../images/bg-quotes.png'
 
 const Opinions = () => {
   return (
     <div className={styles.all}>
+      <img src={znacznik} className={styles.obiekt}/>
     <OpinionsMenu
     opinion={"Przedstawiam pełny opis stanowiska, Przedstawiam pełny opis stanowiska, Przedstawiam pełny opis stanowiska."}
     profile={profile1}
