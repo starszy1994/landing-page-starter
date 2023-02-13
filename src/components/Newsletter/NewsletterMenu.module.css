@@ -1,0 +1,35 @@
+.title {
+    border-radius: 5px;
+    background-color: hsl(219, 48%, 11%);
+    width: 60%;
+    max-width: 1440px;
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+}
+.mail{
+    margin-top: 20px;
+    width: 55%;
+    max-width: 1440px;
+    text-align: auto;
+    border-radius: 20px;
+    height: 40px;
+    float:left;
+}
+.btn1{
+    background-color: aqua;
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+    font-size:  20px;
+    float: left;
+}
+.info{
+    text-align: left;
+    color: red;
+    margin-left: 15px;
+    font-size: 10px;
+}
+.wrapper p {
+    margin: 20px;
+}
