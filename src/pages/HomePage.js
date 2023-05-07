@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../components/Footer/Footer';
 import FyloWorks from '../components/FyloWorks/FyloWorks';
 import Icon from '../components/IconMenu/Icon';
 import MainTemplate from '../components/MainTemplate/MainTemplate'
@@ -14,6 +15,7 @@ const HomePage = () => {
   <FyloWorks/>
   <Opinions/>
   <NewsletterMenu/>
+  <Footer/>
   </MainTemplate>
   )
 }

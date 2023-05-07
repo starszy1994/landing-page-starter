@@ -1,0 +1,43 @@
+.logo {
+  margin-top: 50px;
+  margin-left: 60px;
+  height: 30px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 50px;
+  margin: 30px;
+}
+
+.contact {
+  display: block;
+  width: 300px;
+}
+
+.contactLine {
+    margin-left: 70px;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.tekst {
+  width: 370px;
+  font-size: 12px;
+  display: flex;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  line-height: 1.8;
+  width: 20%;
+}
+.location {
+        width: 250px;
+        margin-left: 29px;
+        font-size: 12px;
+}

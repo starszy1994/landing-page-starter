@@ -16,12 +16,18 @@
 .wrapper p {
     margin: 12px 0;
     max-width:650px;
+    font-size: 20px;
     color: rgba(255, 255, 255, 0.647);
 }
 
 .wrapper a {
-    color: cyan;
+    color: rgba(255, 255, 255, 0.647);
     text-decoration: none;
     padding-bottom: 6px;
-    border-bottom: 1px solid cyan;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.647);
+}
+
+.links {
+    height: 15px;
+    width: 15px;
 }

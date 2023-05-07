@@ -1,22 +1,21 @@
 .head {
-    font-weight: 700;
+    font-weight: 600;
+    font-size: 40px;
     text-align: center;
     margin-top: 60px;
 }
 
 .body {
-    font-weight: 200;
+    font-weight: 00;
     text-align: center;
     margin-top: 50px;
-    font-size: 10px;
+    font-size: 27px;
 }
 
 .wrapper {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+margin: auto;
     width: 50%;
-    height: auto;
     text-align: center;
 }
 

@@ -7,8 +7,8 @@ const NewsletterMenu = () => {
     <div className={styles.wrapper}>
     <div className={styles.title}>
         <h2>Get early access today</h2>
-        <p>It only takes a minute to sign up and our starter tier is exttremely generous. Ifyou have any questions, our suport team would be happy to help you.</p>
-    <div>
+        <p>It only takes a minute to sign up and our starter tier is exttremely generous. If you have any questions, our suport team would be happy to help you.</p>
+    <div className={styles.click}>
         <input className={styles.mail} placeholder="   123email@emgail.com"></input>
         <Button text='Get Started For Free' className={styles.btn1}></Button>
     </div>
